@@ -11,9 +11,9 @@
          "avatar":{  
             "height":375.0,
             "id":120,
-            "medium":"https://s3-us-west-1.amazonaws.com/dev-teatimes/users/avatars-2017-12-12/621633D8-2ADA-4E5B-B1B0-8C8CFDCB57A3-26244-0000C8D1C0A17BD8.jpeg",
-            "original":"https://s3-us-west-1.amazonaws.com/dev-teatimes/users/avatars-2017-12-12/5FCFA78F-95BC-44CA-9C5A-0CA4F2BFAEA3-26244-0000C8D1B2487C9A.jpeg",
-            "small":"https://s3-us-west-1.amazonaws.com/dev-teatimes/users/avatars-2017-12-12/AA438EA3-146B-42B7-A184-01FCA0D2E958-26244-0000C8D1C0CE78E7.jpeg",
+            "medium":"https://www.screenfeed.fr/wp-content/uploads/2013/10/default-avatar.png",
+            "original":"https://www.screenfeed.fr/wp-content/uploads/2013/10/default-avatar.png",
+            "small":"https://www.screenfeed.fr/wp-content/uploads/2013/10/default-avatar.png",
             "width":375.0
          },
          "count_follow_conversation":0,
@@ -35,9 +35,9 @@
          "mask_avatar":{  
             "height":375.0,
             "id":120,
-            "medium":"https://s3-us-west-1.amazonaws.com/dev-teatimes/users/mask_avatars-2017-12-12/433CC7FE-225B-4BE1-BFEB-37D2257C2784-26244-0000C8D1ED94990F.jpeg",
-            "original":"https://s3-us-west-1.amazonaws.com/dev-teatimes/users/mask_avatars-2017-12-12/84FF4750-E9A4-45EE-A744-E0C1BF383ADA-26244-0000C8D1EBC4B72E.jpeg",
-            "small":"https://s3-us-west-1.amazonaws.com/dev-teatimes/users/mask_avatars-2017-12-12/689841D7-05B5-4045-ACE5-15B9D9BAC6FB-26244-0000C8D1EDB464FA.jpeg",
+            "medium":"https://www.screenfeed.fr/wp-content/uploads/2013/10/default-avatar.png",
+            "original":"https://www.screenfeed.fr/wp-content/uploads/2013/10/default-avatar.png",
+            "small":"https://www.screenfeed.fr/wp-content/uploads/2013/10/default-avatar.png",
             "width":375.0
          },
          "mask_type":7,
